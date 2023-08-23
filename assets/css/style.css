@@ -1,0 +1,31 @@
+body{
+    font-family:'Raleway', sans-serif;
+    font-family: 'Roboto-light', sans-serif;;
+}
+
+h4{
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto-light', sans-serif;;
+    font-size: 20px;
+    opacity: 50%;
+}
+
+.card-footer{
+    text-align: right;
+    justify-content: right;
+}
+.text-body-secondary{
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto-light', sans-serif;;
+    font-size: 15px;
+    text-align: left;
+}
+
+.text-success{
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto-light', sans-serif;;
+    font-size: 18px;
+    text-align:left;
+}
+
+
